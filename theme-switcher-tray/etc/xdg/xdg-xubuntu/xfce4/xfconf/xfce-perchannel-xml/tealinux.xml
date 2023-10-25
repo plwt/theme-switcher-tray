@@ -2,11 +2,11 @@
 
 <channel name="tealinux" version="1.0">
   <property name="switcher" type="empty">
-    <property name="DevTheme" type="string" value="Ambiance-Blackout-Flat-Red-Pro"/>
-    <property name="DevWindow" type="string" value="Ambiance-Blackout-Flat-Red-Pro"/>
-    <property name="DevIcon" type="string" value="yang"/>
-    <property name="NormalTheme" type="string" value="Bluebird"/>
-    <property name="NormalWindow" type="string" value="Bluebird"/>
-    <property name="NormalIcon" type="string" value="Faenza-Darker"/>
+    <property name="DevTheme" type="string" value="Greybird-dark"/>
+    <property name="DevWindow" type="string" value="Greybird-dark"/>
+    <property name="DevIcon" type="string" value="elementary-xfce-darker"/>
+    <property name="NormalTheme" type="string" value="Greybird"/>
+    <property name="NormalWindow" type="string" value="Greybird"/>
+    <property name="NormalIcon" type="string" value="elementary-xfce-darker"/>
   </property>
 </channel>
